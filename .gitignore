@@ -1,0 +1,8 @@
+node_modules/
+src/
+server.js
+package.json
+package-lock.json
+report.json
+resultado.json
+test.js
